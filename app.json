@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "FCM V1 API Guide",
+    "owner": "<your_expo_username>",
+    "slug": "fcmv1api",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "plugins": [],
+    "android": {
+      "package": "<your_android_bundle_identifier>",
+      "versionCode": 1,
+      "googleServicesFile": "<path_to_your_google_service_json_file>"
+    },
+    "ios": {
+      "bundleIdentifier": "<your_ios_bundle_identifier>"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "<your_expo_project_id>"
+      }
+    }
+  }
+}
