@@ -17,3 +17,5 @@ To run:
 7. Execute the following command to run the code: `npm run Android`
 
 Before running, make sure that you have the relevant development environment for React Native Expo set up. You do do so by following this link: https://reactnative.dev/docs/0.70/environment-setup
+
+Relevant Medium article: https://medium.com/@raahimkhan_85173/how-to-send-push-notifications-using-firebase-cloud-messaging-fcm-http-v1-api-in-react-native-f5af828b8c09
